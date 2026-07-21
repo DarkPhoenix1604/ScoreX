@@ -1,0 +1,12 @@
+# Core NLP and Machine Learning
+scikit-learn
+nltk
+pandas
+
+# File Reading
+PyPDF2
+python-docx
+
+# Visualization
+wordcloud
+matplotlib
